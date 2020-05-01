@@ -1,0 +1,2 @@
+# Foodxain
+FoodXain es la solución para poder mostrar y garantizar las certificaciones de producto, su trazabilidad así como cualquier documento que muestre su calidad y características. Para el productor o elaborador es una forma sencilla de realizarlo de manera fiable e inmutable mediante la tecnología blockchain. El usuario lo puede visionar fácilmente y estar, más y mejor, informado de las cualidades del producto.​
